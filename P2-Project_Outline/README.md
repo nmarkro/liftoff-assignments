@@ -7,12 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A few years ago I wrote a program that would take user created Mega Man Battle Chip Challenge decks (GBA game) and run a tourament that users could watch on Twitch.tv with them. The program required users to navigate to multiple websites and jump through a lot of hoops to do this though, which always felt very obtuse. I want to write a web app to centralize the user experience of creating, editing, and viewing decks.
 ### Features
-Include Features here
+User login: Users will be able to log-in with their Twitch.tv accounts.
+Deck creation and editing: Users will be able to create and edit new decks.
+Statistic tracking: Users will be able to see various stats on how their decks preform.
+Embedded Twitch Interface: Users will be able to view the game and access the deck editor without having to navigate to other websites.
 ### Technologies
-Include Technologies here
+C#
+Javascript
+ASP.NET
+MySQL
+Twitch API
 ### What I'll Have to Learn
-Include what you will need to learn here
+Twitch API
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/DijxzZVa/liftoff-project
